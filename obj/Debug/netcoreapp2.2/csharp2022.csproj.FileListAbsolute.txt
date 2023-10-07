@@ -3,9 +3,11 @@
 /Users/imrankhan/Documents/GitHub/csharp2022/csharp2022/bin/Debug/netcoreapp2.2/csharp2022.runtimeconfig.dev.json
 /Users/imrankhan/Documents/GitHub/csharp2022/csharp2022/bin/Debug/netcoreapp2.2/csharp2022.dll
 /Users/imrankhan/Documents/GitHub/csharp2022/csharp2022/bin/Debug/netcoreapp2.2/csharp2022.pdb
-/Users/imrankhan/Documents/GitHub/csharp2022/csharp2022/obj/Debug/netcoreapp2.2/csharp2022.csprojAssemblyReference.cache
 /Users/imrankhan/Documents/GitHub/csharp2022/csharp2022/obj/Debug/netcoreapp2.2/csharp2022.csproj.CoreCompileInputs.cache
 /Users/imrankhan/Documents/GitHub/csharp2022/csharp2022/obj/Debug/netcoreapp2.2/csharp2022.AssemblyInfoInputs.cache
 /Users/imrankhan/Documents/GitHub/csharp2022/csharp2022/obj/Debug/netcoreapp2.2/csharp2022.AssemblyInfo.cs
 /Users/imrankhan/Documents/GitHub/csharp2022/csharp2022/obj/Debug/netcoreapp2.2/csharp2022.dll
 /Users/imrankhan/Documents/GitHub/csharp2022/csharp2022/obj/Debug/netcoreapp2.2/csharp2022.pdb
+/Users/imrankhan/Documents/GitHub/csharp2022/csharp2022/obj/Debug/netcoreapp2.2/csharp2022.csproj.AssemblyReference.cache
+/Users/imrankhan/Documents/GitHub/csharp2022/csharp2022/obj/Debug/netcoreapp2.2/csharp2022.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imrankhan/Documents/GitHub/csharp2022/csharp2022/obj/Debug/netcoreapp2.2/csharp2022.genruntimeconfig.cache
